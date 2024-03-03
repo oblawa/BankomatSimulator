@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\model\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:model\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\viewmodel\\firstwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:viewmodel\\firstwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\withdrawwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\withdrawwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\firstwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\firstwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\checkpinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\checkpinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\firstwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\firstwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\withdrawwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\withdrawwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\checkpinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\checkpinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|c:\\users\\hi0ne\\source\\repos\\bankomatapp\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160F6AE9-27C9-45AE-9A72-2476A5D27DD2}|BankomatApp.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Core\\RelayCommand.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:01:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Model\\Transaction.cs",
+              "RelativeDocumentMoniker": "Model\\Transaction.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Model\\Transaction.cs",
+              "RelativeToolTip": "Model\\Transaction.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:01:43.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:56:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\FirstWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\FirstWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\FirstWindow.xaml.cs",
+              "RelativeToolTip": "View\\FirstWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:56:12.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckPinWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\CheckPinWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CheckPinWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\CheckPinWindow.xaml.cs",
+              "RelativeToolTip": "View\\CheckPinWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:56:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WithdrawWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\WithdrawWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\WithdrawWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\WithdrawWindow.xaml.cs",
+              "RelativeToolTip": "View\\WithdrawWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:55:17.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WithdrawWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\WithdrawWindow.xaml",
+              "RelativeDocumentMoniker": "View\\WithdrawWindow.xaml",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\WithdrawWindow.xaml",
+              "RelativeToolTip": "View\\WithdrawWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-03T20:45:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-03T20:45:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirstWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\FirstWindow.xaml",
+              "RelativeDocumentMoniker": "View\\FirstWindow.xaml",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\FirstWindow.xaml",
+              "RelativeToolTip": "View\\FirstWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-03T20:43:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckPinWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\CheckPinWindow.xaml",
+              "RelativeDocumentMoniker": "View\\CheckPinWindow.xaml",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\View\\CheckPinWindow.xaml",
+              "RelativeToolTip": "View\\CheckPinWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-03T20:42:10.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Model\\Card.cs",
+              "RelativeDocumentMoniker": "Model\\Card.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Model\\Card.cs",
+              "RelativeToolTip": "Model\\Card.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:14:52.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\Services\\AuthorizationService.cs",
+              "RelativeToolTip": "Services\\AuthorizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:13:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstWindowVM.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\ViewModel\\FirstWindowVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\FirstWindowVM.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\ViewModel\\FirstWindowVM.cs",
+              "RelativeToolTip": "ViewModel\\FirstWindowVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:42:20.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowVM.cs",
+              "DocumentMoniker": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\ViewModel\\MainWindowVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainWindowVM.cs",
+              "ToolTip": "C:\\Users\\hi0ne\\source\\repos\\BankomatApp\\ViewModel\\MainWindowVM.cs",
+              "RelativeToolTip": "ViewModel\\MainWindowVM.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:10:29.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

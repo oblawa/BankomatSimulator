@@ -1,0 +1,26 @@
+﻿<Window x:Class="BankomatApp.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankomatApp.View"
+        xmlns:vm="clr-namespace:BankomatApp.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <Window.DataContext>
+        <vm:MainWindowVM/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Остаток по карте" FontSize="15" Height="25" Margin="5" Command="{Binding ShowBalance_Command}"/>
+            <Button Content="Снять деньги" FontSize="15" Height="25" Margin="5" Command="{Binding OpenWithdrawWindow_Command}"/>
+        </StackPanel>
+        <Button Grid.Row="1" Content="Отмена" FontSize="15" Height="25" Width="100" Margin="5" Click="CancelButton_Click"/>            
+        
+    </Grid>
+</Window>

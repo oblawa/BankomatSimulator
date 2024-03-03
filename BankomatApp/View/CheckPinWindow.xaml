@@ -1,0 +1,33 @@
+﻿<Window x:Class="BankomatApp.View.CheckPinWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankomatApp.View"
+        xmlns:vm="clr-namespace:BankomatApp.ViewModel"
+        mc:Ignorable="d"
+        Title="Проверка пин-кода" Height="243" Width="300">
+    <Window.DataContext>
+        <vm:FirstWindowVM/>
+    </Window.DataContext>
+    <Grid Height="200" Width="300">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="Введите пин-код" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" Margin="5"/> 
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBox x:Name="PinTextBox" Grid.Row="0" Width="100" Height="20" Margin="5" Text="{Binding PinCode}" PreviewTextInput="PinTextBox_PreviewTextInput"/>
+
+            <Button Content="Удалить всё" Height="20" Margin="5" Click="ClearTextBox_Click" IsEnabled="{Binding ElementName=PinTextBox, Path=Text.Length}"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
+            <Button Content="Готово" Height="20" Width="80" Margin="5" Command="{Binding CheckPinCode_Command}" IsEnabled="{Binding ElementName=PinTextBox, Path=Text.Length}"/>
+            <Button Content="Отмена" Height="20" Width="80" Margin="5" Click="CancelButton_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

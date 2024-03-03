@@ -1,0 +1,23 @@
+﻿<Window x:Class="BankomatApp.View.WithdrawWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankomatApp.View"
+        xmlns:vm="clr-namespace:BankomatApp.ViewModel"
+        mc:Ignorable="d"
+        Title="WithdrawWindow" Height="200" Width="300">
+    <Window.DataContext>
+        <vm:MainWindowVM/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Введите сумму" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" x:Name="AmountTextBox" Height="20" Width="260" Text="{Binding amountToWithdraw}" PreviewTextInput="AmountToWithdrawTextBox_PreviewTextInput"/>
+        <Button Grid.Row="2" Content="Готово" Width="60" Height="20" Command="{Binding Withdraw_Command}" IsEnabled="{Binding ElementName=AmountTextBox, Path=Text.Length}"/>
+    </Grid>
+</Window>
